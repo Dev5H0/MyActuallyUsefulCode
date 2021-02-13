@@ -1,0 +1,16 @@
+Usage:
+   from logging import log
+   log(log_type, log_code)
+
+Python File - 'logging.py':
+   logging - Enables/Disables logging entirely
+   debug_mode - Enables/Disables debug messages
+   json_code_file - Path to the (json) file with the logging codes/message
+
+Json File - 'debug_code.json':
+   Lets you assign log codes to messages.
+
+
+
+Optional: 
+   Install termcolor - pip install termcolor

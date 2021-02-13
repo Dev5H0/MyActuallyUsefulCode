@@ -1,0 +1,22 @@
+{
+	"error":{
+		"0":"Error",
+		"1":"Fatal Error"
+	},
+	"warn":{
+		"0":"Warning",
+		"1":"Are you sure you want to continue?"
+	},
+	"info":{
+		"0":"Some info",
+		"1":"This is a log"
+	},
+	"console":{
+		"0":"Starting App...",
+		"1":"Stopping App..."
+	},
+	"debug":{
+		"0":"Hello World",
+		"1":"Test #1"
+	}
+}
